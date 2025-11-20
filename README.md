@@ -1,7 +1,7 @@
 # Healthcare AI Innovation 
 
 ## Executive Summary
-This repo presents four cutting-edge use cases demonstrating how Generative AI, Agentic AI, and advanced machine learning are transforming healthcare delivery globally. Each use case includes working proof-of-concept code, technical architecture, implementation roadmap, and ROI analysis. The figures and numbers given below are indicative only based o research done for similar kind of use case implmentations and may chnage case to cases basis. The time lines aslo depends upon vairous factors like prepared ness of the client, in terms of the systems, data quality, culture,funds and lot many things.
+This repo presents four cutting-edge use cases demonstrating how Generative AI, Agentic AI, and advanced machine learning are transforming healthcare delivery globally. Each use case includes working proof-of-concept code, technical architecture, implementation roadmap, and ROI analysis. The figures and numbers given below are indicative only based on research done for similar kind of use case implementations and may chnage case to cases basis. The time lines aslo depends upon various factors like prepared ness of the client, in terms of the systems, data quality, culture,funds and lot many things.
 ### Key Outcomes Expected
 - 70% reduction in clinical documentation time
 - 60% decrease in patient wait times
